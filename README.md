@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I am Manoj Rawat 👋
 
-<!--
-**PahadiBlood/PahadiBlood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Java / Spring Boot Developer with 4+ years of experience.
 
-Here are some ideas to get you started:
+I specialize in building dynamic web applications, from monolithic architectures to microservices.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Want to Know More About Me? 🤔
+
+To know more about me, my work, projects, and blogs — visit my portfolio website.
+
+**Preview**
+
+![Portfolio Preview](https://src.manojraw.xyz/api/v1/files/how-i-used-ai-to-build-my-portfolio-16x9-q85.png)
+
+**[Click here to explore → View Portfolio](https://manojraw.xyz)**

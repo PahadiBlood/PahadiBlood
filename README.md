@@ -2,7 +2,7 @@
 
 Senior Java / Spring Boot Developer with 4+ years of experience.
 
-I specialize in building dynamic web applications, from monolithic architectures to microservices.
+I specialize in building web applications, from monolithic architectures to microservices.
 
 ---
 

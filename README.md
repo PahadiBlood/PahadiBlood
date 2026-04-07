@@ -6,12 +6,10 @@ I specialize in building web applications, from monolithic architectures to micr
 
 ---
 
-## Want to Know More About Me? 🤔
+## Want to Know More About Me?
 
 To know more about me, my work, projects, and blogs — visit my portfolio website.
 
-**Preview**
-
 ![Portfolio Preview](https://src.manojraw.xyz/api/v1/files/how-i-used-ai-to-build-my-portfolio-16x9-q85.png)
 
-**[Click here to explore → View Portfolio](https://manojraw.xyz)**
+[![View Portfolio](https://img.shields.io/badge/View%20Portfolio-manojraw.xyz-0a66c2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://manojraw.xyz)
